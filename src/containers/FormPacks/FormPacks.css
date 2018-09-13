@@ -1,0 +1,21 @@
+.bL0px{
+    border-left:0px;
+} 
+#musicinfo {
+    display: none;
+}
+.approvel_field_table td img {
+    margin-top: 5px;
+}
+@media  (min-width: 320px) and (max-width: 767px){
+.x_img_pack
+{
+	margin-top:-3px !important;
+	width:14px;
+	height:16px;
+}
+.approvel_field_table {
+    border: none;
+    width: 500px;
+}
+}

@@ -1,0 +1,12 @@
+.OutlineNone{
+    outline:none;
+}
+.mt15{
+    margin-top:15px;
+}
+.noBorder{
+    border:none !important;
+}
+.modalBodyCustomStyle{
+    overflow:inherit !important; height:auto;
+}

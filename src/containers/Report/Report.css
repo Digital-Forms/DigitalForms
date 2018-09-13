@@ -1,0 +1,13 @@
+.bL0px{
+    border-left:0px;
+}
+.select-style {
+    padding: 0;
+    margin: 0;
+    border: 1px solid #ccc;
+    width: 100%;
+    border-radius: 0px;
+    overflow: hidden;
+    background-color: #fff;
+    background: #fff url(../../assets/images/down_arrow.jpg) no-repeat 90% 50%;
+}

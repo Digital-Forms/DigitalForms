@@ -1,0 +1,65 @@
+.bL0px{
+    border-left:0px;
+}
+.OutlineNone{
+    outline:none;
+}
+.heigtAuto{
+    height: auto;
+}
+.OverflowAuto{
+    overflow: auto;
+}
+.marginTop15px
+{
+    margin-top:15px;
+}
+.approvel_field_table
+{
+	border:none;
+}
+.approvel_field_table th
+{
+
+
+	padding-left:20px !important;
+
+}
+.approvel_field_table td
+{
+
+
+	padding-left:20px !important;
+
+}
+.approvel_field_table td img
+{
+	margin-top:5px;
+
+}
+.approvel_field_table th
+{
+	font-weight:600 !important;
+	background:#29429d !important;
+	color:#fff;
+	font-size:15px;
+	padding-left:20px !important;
+}
+@media  (min-width: 320px) and (max-width: 767px){
+.approvel_field_table th
+{
+
+
+	font-size:13px;
+	white-space:nowrap;
+
+}
+.approvel_field_table td
+{
+
+
+	font-size:13px;
+	white-space:nowrap;
+
+}
+}

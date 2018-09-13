@@ -1,0 +1,45 @@
+
+
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+
+.select-style
+{
+	background:inherit;
+}
+
+.sidebar-nav li a svg {
+    width: 16px;
+    height: 16px;
+    margin-top: 8px;
+    float: left;
+    margin-left: 19px;
+}
+.sidebar-nav li a {
+    display: block;
+    text-decoration: none;
+    color: #686868;
+    font-size: 15px;
+    font-weight: 600;
+    height: 38px;
+}
+
+
+.sidebar_active span {
+    color: #fff;
+    fill: #fff;
+    background-color: #03599A;
+    float: left;
+}
+
+.header_top_right {
+    padding-right: 20px !important;
+}
+
+
+
+
+
+
+
+}
+	
